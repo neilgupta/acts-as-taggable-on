@@ -1,6 +1,6 @@
 ## Notes about this fork
 
-This fork was a temporary workaround for a bug in 3.1.0 of ActsAsTaggableOn. The bug has since been fixed in 3.1.1, but I am leaving this repository up in case anybody is still referencing it in their projects.
+This fork was a temporary workaround for a bug in 3.1.0 of ActsAsTaggableOn [(#504)](https://github.com/mbleigh/acts-as-taggable-on/issues/504). The bug has since been fixed in 3.1.1, but I am leaving this repository up in case anybody is still referencing it in their projects.
 
 # ActsAsTaggableOn
 [![Build Status](https://secure.travis-ci.org/mbleigh/acts-as-taggable-on.png)](http://travis-ci.org/mbleigh/acts-as-taggable-on)
